@@ -1,0 +1,4 @@
+flask
+redis
+pika
+python-dotenv

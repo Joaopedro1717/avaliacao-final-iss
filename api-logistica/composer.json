@@ -1,0 +1,17 @@
+{
+    "name": "jpedr/api-logistica",
+    "autoload": {
+        "psr-4": {
+            "Jpedr\\ApiLogistica\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joaopedro1717",
+            "email": "j.pedrominuto@hotmail.com"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": "^2.8"
+    }
+}
